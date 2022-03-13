@@ -1,7 +1,7 @@
 
 ![content creator and ui/ux designer](https://github.com/iamshaifahmed/iamshaifahmed/blob/main/git%202.jpg)
 
-Hi, I'm shaif, Your fellow Bangladeshi content creator and ui/ux designer from sylhet. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+Hi, I'm shaif, Your fellow Bangladeshi content creator and ui/ux designer from sylhet. I really enjoy learning languages and frameworks like React, as well as work in as a professional Esports player in pubg mobile. I also enjoy wireframing, ui, ux, and design in general. 
 
 
 ## Education
