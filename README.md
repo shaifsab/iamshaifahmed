@@ -8,11 +8,11 @@ Hi, I'm shaif, Your fellow Bangladeshi content creator and ui/ux designer from s
 </b> BSc in Computer Science and Engineering  </b> <br>
 </b> -Metropoliton University, Sylhet</b> 
 
-Higher Secondary School Certificate 
--ragib rabeya school and college
+</b> Higher Secondary School Certificate </b> <br>
+</b> -ragib rabeya school and college </b> 
 
-Secondary School Certificate 
--Dinarpur High School
+</b> Secondary School Certificate </b> <br>
+</b> -Dinarpur High School </b> 
 
 ## Skills and Experience
 * HTML, CSS, JS
