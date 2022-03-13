@@ -3,10 +3,25 @@
 
 Hi, I'm shaif, Your fellow Bangladeshi content creator and ui/ux designer from sylhet. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
+
+## Education
+BSc in Computer Science and Engineering
+Metropoliton University, Sylhet
+
+Higher Secondary School Certificate | 2017
+ragib rabeya school and college
+
+Secondary School Certificate | 2015
+Dinarpur High School
+
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+* HTML, CSS, JS
+* React 
+* adobe software environment
+* Video editing
+* ui/ux designer
+* Content Creator, Streamer and eSports Athlete
+* professional Esports player in pubg mobile
 
 Thanks!
 
