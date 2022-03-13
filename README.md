@@ -5,8 +5,8 @@ Hi, I'm shaif, Your fellow Bangladeshi content creator and ui/ux designer from s
 
 
 ## Education
-BSc in Computer Science and Engineering 
--Metropoliton University, Sylhet
+</b> BSc in Computer Science and Engineering  </b> <br>
+</b> -Metropoliton University, Sylhet</b> 
 
 Higher Secondary School Certificate 
 -ragib rabeya school and college
